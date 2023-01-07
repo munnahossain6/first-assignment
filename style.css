@@ -1,0 +1,283 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans';
+    ;
+}
+
+/* header designing */
+.header {
+    background-image: url('images/banner/banner1.png');
+    background-size: cover;
+    height: 900px;
+    text-align: right;
+
+
+
+}
+
+.banner {
+    padding-top: 280px;
+    padding-right: 40px;
+}
+
+.main-title {
+    font-size: 60px;
+}
+
+.title-des {
+    font-size: 30px;
+}
+
+
+.btn {
+    border: 0;
+    padding-top: 20px;
+    padding: 18px 35px;
+    background: #FD6E0A;
+    border-radius: 5px;
+    color: #FFFFFF;
+    margin-right: 5px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+/* failure section desiging */
+.failure-section {
+    margin-right: 20px;
+    margin-top: 140px;
+    align-items: center;
+    display: flex;
+    margin: 0 200px;
+    padding-top: 140px;
+}
+
+.failure-section li {
+    list-style: none;
+    list-style-position: inside;
+    list-style-type: circle;
+
+
+}
+
+.failure-div {
+
+    padding-left: 675px;
+
+}
+
+.text-side {
+    padding-left: 200px;
+}
+
+.failure-title {
+    color: #151414;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 47px;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+    padding-bottom: 30px;
+}
+
+.failure-des {
+    color: #444343;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
+}
+
+.inside {
+    padding-top: 12px;
+    font-size: 22px;
+    list-style: none;
+    content: \2713;
+
+
+}
+
+/*.chakmark {
+    content: "\2713";
+}
+
+/* my plan section desiginig */
+
+.myplans {
+    margin-top: 131px;
+    margin-right: 230px;
+    margin-bottom: 130px;
+}
+
+.myplanstitle {
+    color: #151414;
+    align-items: center;
+    font-weight: 700;
+    margin: 0 800px;
+
+    padding-bottom: 60px;
+
+    /* padding-top: 60px; */
+    width: 179px;
+    height: 47px;
+    left: 711px;
+    top: 1792.3px;
+    font-size: 40px;
+
+}
+
+.my-plan-container {
+    display: flex;
+    gap: 86px;
+    padding-left: 330px;
+    /* padding-right: 830px; */
+    align-items: center;
+
+}
+
+.my-plan-icons {
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5px;
+    /* align-items: center; */
+}
+
+.plan-title {
+    color: #151414;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+
+.plan-des {
+
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+
+.middle {
+    padding-left: 50px;
+}
+
+.middle2 {
+    padding-left: 27px;
+}
+
+/* always keep part desiging */
+.always {
+    background-image: url('images/gradient1.png');
+    background-repeat: no-repeat;
+    margin: 0 400px;
+    padding-top: 70px;
+    padding-bottom: 180px;
+    border-color: rgb(115, 115, 167);
+
+}
+
+.alws-container {
+    padding-left: 83px;
+    text-align: left;
+}
+
+.alws-title {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 40px;
+    width: 459px;
+    height: 94px;
+    left: 294px;
+    top: 2281.26px;
+    padding-bottom: 24px;
+}
+
+.call-now {
+
+    color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    /* text-align: center; */
+    box-sizing: border-box;
+    width: 160px;
+    height: 64px;
+    left: 294px;
+    top: 2399.26px;
+    border: 1px solid #FD6E0A;
+    border-radius: 5px;
+}
+
+/* footer desigining */
+
+.foter {
+    display: flex;
+    background: #151414;
+}
+
+.future {
+    margin: 0 200px;
+
+}
+
+.future-head {
+    padding-top: 50px;
+    font-weight: 700;
+    font-size: 45px;
+    width: 148px;
+    height: 53px;
+    left: 230px;
+    top: 2782.26px;
+    color: #F8F8F8;
+
+}
+
+.future-des {
+    padding-top: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    width: 485px;
+    height: 78px;
+    left: 230px;
+    top: 2851.26px;
+    color: #F8F8F8;
+
+}
+
+
+
+
+.sub-head {
+    padding-top: 50px;
+    font-weight: 600;
+    font-size: 25px;
+    padding-bottom: 30px;
+    color: #F8F8F8;
+}
+
+.form {
+    box-sizing: border-box;
+    width: 325px;
+    height: 64px;
+    left: 1046px;
+    top: 2842.26px;
+    background: #151414;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 18px;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+}
+
+.subscribe .call-now {
+    margin-top: 30px;
+}
