@@ -82,7 +82,7 @@
 .failure-des {
     color: #444343;
     font-weight: 400;
-    font-size: 22px;
+    font-size: 20px;
     line-height: 26px;
     width: 416px;
     height: 104px;
@@ -92,9 +92,8 @@
 
 .inside {
     padding-top: 12px;
-    font-size: 20px;
+    font-size: 17px;
     list-style: none;
-    content: \2713;
 
 
 }
