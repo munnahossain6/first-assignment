@@ -66,7 +66,7 @@
 }
 
 .text-side {
-    padding-left: 100px;
+    padding-left: 50px;
 }
 
 .failure-title {
@@ -94,7 +94,7 @@
 
 .inside {
     padding-top: 12px;
-    font-size: 22px;
+    font-size: 20px;
     list-style: none;
     content: \2713;
 
